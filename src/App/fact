@@ -1,0 +1,9 @@
+reclet factorial = lambda (n) {
+    if (n <= int 1) {
+        int 1
+    } else {
+        (n * exec factorial ((n - int 1)))
+    }
+}
+
+exec factorial (int 5)

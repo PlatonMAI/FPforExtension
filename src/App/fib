@@ -1,0 +1,9 @@
+reclet fib = lambda (n) {
+    if (n <= int 1) {
+        int 1
+    } else {
+        (exec fib ((n - int 1)) + exec fib ((n - int 2)))
+    }
+}
+
+exec fib (int 9)

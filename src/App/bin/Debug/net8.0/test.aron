@@ -1,0 +1,17 @@
+open print
+#
+
+reclet factorial = lambda (n) {
+    if (n <= 1) {
+        1
+    } else {
+        (n * exec factorial ((n - 1)))
+    }
+}
+
+let primitive = (2 + 5)
+let primitive2 = (2 + 5)
+
+let x = exec hello("vasya")
+
+exec factorial (5)

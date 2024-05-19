@@ -1,0 +1,9 @@
+let sum = lambda (a, b) {
+    (a + b)
+}
+
+let lhs = str "HELLO "
+let rhs = bool false
+let rhs = str "WORLD!!!"
+
+exec sum (lhs, rhs)

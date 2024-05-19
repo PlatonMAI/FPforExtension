@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jPkrmdu5xx7gC3NWSrISeinZJaDssS9305SVswdivqZL8QdNrEzb+yDulTKo+DmQTPDVs7XQDY5arhJ52oLsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plato\\Documents\\Prog\\fuckProg\\LABNEW\\src\\App\\App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plato\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\plato\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
